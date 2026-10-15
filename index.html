@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+        <title>Spotiglke</title>
+    </head>
+
+    <body>
+
+        <div class="player-container">
+            
+            <div class="window-controls">
+                <button id="minimizeButton" class="min-btn">-</button>
+                <button id="closeButton" class="close-btn">&times;</button>
+            </div>
+            
+            <h1>Spotiglke</h1>
+
+                <div class="image-container">
+                    <img id="album-art" src="" alt="Capa da música" class="logo">
+                    <div id="duration-badge" class="duration-badge">00:00</div>
+                </div>
+                
+                <div class="slides">
+                    <label for="volume">Volume:</label>
+                    <input type="range" id="volume" name="volume" min="0" max="100" value="50">
+                </div>
+
+                <div class="controles">
+                    <button id="previousButton" class="icon-btn-ctrl">
+                        <img src="imagens/seta da esquerda.jpg" alt="Anterior">
+                    </button>
+                    <button id="playPauseButton" class="icon-btn-ctrl">
+                        <img id="playPauseImg" src="imagens/Pause.png" alt="Play/Pause">
+                    </button>
+                    <button id="nextButton" class="icon-btn-ctrl">
+                        <img src="imagens/seta direta1.jpg" alt="Próxima">
+                    </button>
+                </div>
+        </div>
+    </body>
+
+
+
+
+
+
+
+        <script src="script.js"></script>
+
+</html>
