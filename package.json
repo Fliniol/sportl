@@ -1,0 +1,26 @@
+{
+  "name": "spotiglke",
+  "version": "1.0.0",
+  "description": "Meu reprodutor de música em Node e Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "servidor": "node -e \"require('./server')(3000)\"",
+    "build:www": "node preparar-mobile.js && npx cap sync"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sql.js": "^1.11.0",
+    "yt-dlp-wrap": "^2.3.9"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}

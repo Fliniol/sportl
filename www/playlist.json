@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "titulo": "Big City Life",
+    "url": "musicas/Big City Life (feat. PAV4N).mp3",
+    "imagem": "imagens/4db211657da3062c85ec9306bdedacc8.png",
+    "duracao": "3:45"
+  },
+  {
+    "id": 2,
+    "titulo": "telepatía - Kali Uchis",
+    "url": "musicas/Kali Uchis – telepatía [Official Music Video].mp3",
+    "imagem": "imagens/20220319_092314.jpg",
+    "duracao": "2:30"
+  },
+  {
+    "id": 3,
+    "titulo": "Ela Só Pensa em Beijar",
+    "url": "musicas/Ela Só Pensa em Beijar (1965).mp3",
+    "imagem": "imagens/20230118_100321.jpg",
+    "duracao": "4:12"
+  },
+  {
+    "id": 4,
+    "titulo": "Popotão Grandão",
+    "url": "musicas/Popotão Grandão (1982).mp3",
+    "imagem": "imagens/E6nUY90XoAMuRMB.jpg",
+    "duracao": "3:15"
+  },
+  {
+    "id": 5,
+    "titulo": "Agora Tô Solteira",
+    "url": "musicas/Agora Tô Solteira (1985).mp3",
+    "imagem": "imagens/IMG_20191125_115415.jpg",
+    "duracao": "3:50"
+  },
+  {
+    "id": 6,
+    "titulo": "ALL MY FELLAS",
+    "url": "musicas/ALL MY FELLAS.mp3",
+    "imagem": "imagens/IMG_20200707_210121.jpg",
+    "duracao": "3:01"
+  },
+  {
+    "id": 7,
+    "titulo": "7 weeks & 3 days",
+    "url": "musicas/Yungatita - 7 weeks & 3 days (sped up).mp3",
+    "imagem": "imagens/IMG_20200717_171945.jpg",
+    "duracao": "3:14"
+  },
+  {
+    "id": 8,
+    "titulo": "Big Poppa",
+    "url": "musicas/The Notorious B.I.G. - Big Poppa (Official Music Video).mp3",
+    "imagem": "imagens/IMG_20200718_002417.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 9,
+    "titulo": "Street Football",
+    "url": "musicas/Street Football.mp3",
+    "imagem": "imagens/IMG_20200718_002423.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 10,
+    "titulo": "Predador de Perereca",
+    "url": "musicas/Predador de Perereca (1982).mp3",
+    "imagem": "imagens/IMG_20200919_104532.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 11,
+    "titulo": "Perdendo a Virgindade (MC VV)",
+    "url": "musicas/MC VV - PERDENDO A VIRGINDADE HEXALOGIA COMPLETA (I Á VI).mp3",
+    "imagem": "imagens/IMG_20200921_220303.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 12,
+    "titulo": "It Was A Good Day",
+    "url": "musicas/Ice Cube - It Was A Good Day.mp3",
+    "imagem": "imagens/IMG_20201004_111119.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 13,
+    "titulo": "Confess your love",
+    "url": "musicas/Jiandro - Confess your love (Audio) ft. ola.wav.mp3",
+    "imagem": "imagens/IMG_20201004_111122.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 14,
+    "titulo": "Chess Type Beat",
+    "url": "musicas/Chess Type Beat ｜ joyful - chess (slowed).mp3",
+    "imagem": "imagens/IMG_20201009_152122.jpg",
+    "duracao": "3:45"
+  },
+  {
+    "id": 15,
+    "titulo": "Justiça Incerta (Kizaru)",
+    "url": "musicas/Justiça Incerta (Kizaru).mp3",
+    "imagem": "imagens/IMG_20201011_130939.jpg",
+    "duracao": "3:45"
+  }
+]
